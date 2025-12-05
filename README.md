@@ -4,7 +4,8 @@ SQL Queries, Data Visualization, and Statistical Tests
 📊 Análisis de Datos de Viajes en Taxi de Chicago
 
 ![Image Alt](https://github.com/AeroGenCreator/Taxi-Company-Data-Analysis/blob/main/1.png)
-[Link al Dashboard Interactivo]()
+[Link al Dashboard Interactivo](https://taxi-company-data-analysis.onrender.com)
+El dashboard se aloja en un seerver gratuito, puede tardar en abrir unos minutos ademas que algunas veces se requiere refrescar la pagina.
 
 Esta presentación resume los pasos clave del Análisis Exploratorio de Datos (EDA) y la Prueba de Hipótesis realizada sobre los datos de viajes en taxi en Chicago.
 Paso 1: 🔎 Análisis Exploratorio de Datos (EDA)
